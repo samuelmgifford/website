@@ -25,6 +25,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  samuelmgifford
 linkedin_username: samuelmgifford
+minima:
+  social_links:
+    - icon: github
+      url: https://github.com/samuelmgifford
+      title: github
+    - icon: linkedin
+      url: https://linkedin.com/in/samuelmgifford
+      title: LinkedIn
+    - icon: envelope
+      url: mailto:sgiffor2@uic.edu
+      title: Email
+  hide_site_feed_link: true
 
 # Build settings
 theme: minima
