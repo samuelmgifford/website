@@ -14,7 +14,7 @@ Hello! I'm Sam, a Ph.D. candidate in economics at the University of Illinois Chi
 </p>
 
 
-I started my career as an actuary at Allstate where I specialized in predictive analytics and R programming. After developing my skills, I transitioned to a software engineering role in trading technology at Milliman Financial Risk Management. Now I research financial economics and teach undergraduate statistics and econometrics. I have broad expertise in statistics, analytics, programming, and business strategy and finance that are well suited to data science and quantitative finance positions. I have also developed strong leadership and communication skills by leading projects and teaching courses.
+I started my career as an actuary at Allstate where I specialized in predictive analytics and R programming. After honing my technical skills, I transitioned to a software engineering role in trading technology at Milliman Financial Risk Management. Now I research financial economics and teach undergraduate statistics and econometrics. I have broad expertise in statistics, analytics, programming, and business strategy and finance that are well suited to data science and quantitative finance positions. I have also developed strong leadership and communication skills by leading projects and teaching courses.
 
 <p>
 </p>
